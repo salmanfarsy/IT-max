@@ -1,0 +1,17 @@
+#mylogo{
+    margin-top: -30%;
+    height: 110px
+}
+.main-menu ul>li a:hover{
+    border: 5px solid rgba(0, 0, 0, 0.13);
+    border-radius: 20px;
+    background-color: white;
+}
+.mybtn{
+    border: 5px solid rgba(255, 0, 0, 0.692);
+    color: rgb(218, 0, 0);
+}
+.text-bg a{
+    color:red;
+    background-color: rgba(235, 14, 14, 0.205);
+}
