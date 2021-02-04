@@ -1213,9 +1213,9 @@
 /** about section **/
  .about {
      background: url(../images/about_bg.png);
-     background-size: 100% 100%;
+     background-size: cover;
      background-repeat: no-repeat;
-     margin-top: -225px;
+     /* margin-top: -225px; */
      padding-bottom: 50px;
      height: 100%;
 }
