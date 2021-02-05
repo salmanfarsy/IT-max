@@ -16,3 +16,12 @@
     color:red;
     background-color: rgba(235, 14, 14, 0.205);
 }
+.how{
+    height: auto;
+}
+.cap{
+    font-size: 45px;
+    color: rgb(80, 79, 79);
+    font-weight: 600;
+    text-shadow: black 1px 1px;
+}

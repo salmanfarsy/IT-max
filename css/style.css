@@ -110,7 +110,7 @@
 }
  img {
      max-width: 100%;
-     height:auto;
+     height:400px;
 }
  :focus {
      outline: 0;
@@ -1459,7 +1459,7 @@
 /** end We_are section **/
 /** contact section **/
  .contact {
-     background: url(../images/contact.jpg);
+     background: url(../images/contact.png);
      padding: 85px 0px;
      background-size: 100% 100%;
      background-repeat: no-repeat;
