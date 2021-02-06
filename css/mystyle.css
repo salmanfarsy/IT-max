@@ -25,3 +25,15 @@
     font-weight: 600;
     text-shadow: black 1px 1px;
 }
+i>img{
+    height: 300px;
+    width: auto;
+    border-radius: 110%;
+}
+.loca>li>a>img{
+    height: 30px;
+}
+.insta_img>figure>img{
+    width: 300px;
+    height: 100px;
+}
