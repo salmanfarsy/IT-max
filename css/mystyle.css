@@ -10,10 +10,10 @@
 
 .mybtn{
     border: 5px solid rgba(255, 0, 0, 0.692);
-    color: rgb(218, 0, 0);
+    color: rgb(2, 0, 0);
 }
 .text-bg a{
-    color:red;
+    color:rgb(14, 7, 7);
     background-color: rgba(235, 14, 14, 0.205);
 }
 .how{
@@ -21,9 +21,12 @@
 }
 .cap{
     font-size: 45px;
-    color: rgb(80, 79, 79);
+    color: rgb(233, 229, 229);
     font-weight: 600;
     text-shadow: black 1px 1px;
+    background-color: black;
+    width: 30%;
+    margin-left: 36%;
 }
 i>img{
     height: 300px;
@@ -36,4 +39,7 @@ i>img{
 .insta_img>figure>img{
     width: 400px;
     height: 100px;
+}
+ul.Links_footer{
+    list-style:none;
 }

@@ -1703,7 +1703,7 @@
  ul.Links_footer li {
     position: relative;
 }
- ul.Links_footer li:after {
+ /* ul.Links_footer li:after {
      position: absolute;
      content: "";
      width: 12px;
@@ -1711,7 +1711,7 @@
      height: 12px;
      top: 10px;
      border-radius: 10px;
-}
+} */
  .insta_img figure {
     margin: 0;
 }
